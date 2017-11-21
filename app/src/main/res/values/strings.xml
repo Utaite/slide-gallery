@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">SlideGallery</string>
+
+    <string name="list_title">이미지 목록</string>
+
+    <string name="permission_rationale">권한을 허용해주셔야 애플리케이션을 실행할 수 있습니다.\n권한을 허용하시겠습니까?</string>
+    <string name="permission_denied">권한을 허용해주셔야 애플리케이션을 실행할 수 있습니다.</string>
+    <string name="permission_never_ask_again">권한이 거부되어 애플리케이션을 실행할 수 없습니다\n권한을 허용하시겠습니까?</string>
+
+    <string name="alert_allow">허용</string>
+    <string name="alert_denied">거부</string>
+
+    <string name="wait_text">이미지를 불러오는 중입니다...</string>
+
+    <string name="count_select">개 선택</string>
+
+</resources>
